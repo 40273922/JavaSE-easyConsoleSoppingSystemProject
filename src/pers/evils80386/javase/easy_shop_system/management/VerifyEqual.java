@@ -6,6 +6,9 @@ import pers.evils80386.javase.easy_shop_system.data.Manager;
 import java.util.Scanner;
 
 /**
+ *
+ * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+ * All rights reserved.
  * @Classname VerifyEqual
  * @Description identification_actions
  * @Created by Evils80386
@@ -48,14 +51,14 @@ public class VerifyEqual {
         Scanner scanner = new Scanner(System.in);
         int count = 0;
         System.out.print("""
-                        按'n'返回上一级:\s""");
+                        按'n'返回上级:""");
         String slogan = scanner.next();
         if (slogan.equals("n")){
             return true;
         }else {
             while (count < 2){
                 count++;
-                System.out.println("输入错误，请重新按'n'返回上一级(否则立即退出)：");
+                System.out.print("按'n'返回上级(否则退出):");
                 slogan = scanner.next();
                 if (slogan.equals("n")){
                     return true;

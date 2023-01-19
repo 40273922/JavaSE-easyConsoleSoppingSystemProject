@@ -3,6 +3,9 @@ package pers.evils80386.javase.easy_shop_system.data;
 import java.util.HashMap;
 
 /**
+ *
+ * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+ * All rights reserved.
  * @Classname Manager
  * @Created by Evils80386
  */

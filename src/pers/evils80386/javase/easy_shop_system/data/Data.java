@@ -7,6 +7,9 @@ package pers.evils80386.javase.easy_shop_system.data;
  */
 public class Data {
     /**
+     *
+     * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+     * All rights reserved.
      * @Description data_initialization
      */
     public static void init(){

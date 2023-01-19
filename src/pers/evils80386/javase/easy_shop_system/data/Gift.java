@@ -1,6 +1,9 @@
 package pers.evils80386.javase.easy_shop_system.data;
 
 /**
+ *
+ * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+ * All rights reserved.
  * @Classname Gift
  * @Description gift_categories
  * @Created by Evils80386
@@ -12,7 +15,7 @@ public class Gift {
      * @Description gift_categories
      */
     public static final String[] gifts = new String[]{
-            "addidas运动鞋一双","Kappa网球裙1件","网球拍一件", "addidasT恤一件","Nike运动鞋一双","Kappa网球一件" +
-            " KappaT恤一件","CASIO手表一件","64gDDR5一件","PUMA运动鞋一双"
+            "addidas 运动鞋 一双","Kappa 网球裙 一件","网球拍 一件","addidas T恤 一件","Nike 运动鞋 一双",
+            "Kappa 网球 一件"," Kappa T恤 一件","CASIO 手表 一件","64g DDR5 一件","PUMA 运动鞋 一双"
     };
 }

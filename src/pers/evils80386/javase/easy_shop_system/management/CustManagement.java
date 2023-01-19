@@ -3,12 +3,16 @@ package pers.evils80386.javase.easy_shop_system.management;
 import pers.evils80386.javase.easy_shop_system.data.Customer;
 
 /**
+ *
+ * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+ * All rights reserved.
  * @Classname CustManagement
  * @Description Customer_Management
  * @Created by Evils80386
  */
 public class CustManagement {
     /**
+     *
      * @Description call_printCustInfo()
      */
     public static void showAllInfo(){

@@ -1,13 +1,16 @@
 package pers.evils80386.javase.easy_shop_system.data;
 
 /**
- *                 1.addidas运动鞋<br/>
- *                 2.Kappa网球裙<br/>
- *                 3.网球拍<br/>
- *                 4.addidasT恤<br/>
- *                 5.Nike运动鞋<br/>
- *                 6.Kappa网球<br/>
- *                 7.KappaT恤<br/>
+ *
+ * Copyright © 2023 ZhaiJinPei-2145619745.qq.com
+ * All rights reserved.
+ *                 1.addidas 运动鞋 <br/>
+ *                 2.Kappa 网球裙 <br/>
+ *                 3.网球拍 <br/>
+ *                 4.addidas T恤 <br/>
+ *                 5.Nike 运动鞋 <br/>
+ *                 6.Kappa 网球 <br/>
+ *                 7.Kappa T恤 <br/>
  * @Classname Goods
  */
 
